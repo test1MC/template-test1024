@@ -13,13 +13,13 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm">
+    Link="/Content/D_Images/B_Links and Lists/LinksAndLists.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Link="/Content/D_Images/B_Links and Lists/Links.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Lists.htm" />
+      Link="/Content/D_Images/B_Links and Lists/Lists.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
