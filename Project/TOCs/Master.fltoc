@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -43,15 +43,15 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm">
+    Link="/Content/D_Images/C_Conditions Notes Tables/ConditionsNotesTables.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Link="/Content/D_Images/C_Conditions Notes Tables/Conditions.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+      Link="/Content/D_Images/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm" />
+      Link="/Content/D_Images/C_Conditions Notes Tables/Tables.htm" />
   </TocEntry>
 </CatapultToc>
